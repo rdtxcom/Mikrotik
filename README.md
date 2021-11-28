@@ -3,7 +3,7 @@
 Scripts para Mikrotik:
 Auto generación de backups y export y envío a servidor ftp: Sustituir valores de la variables por los adecuados.
 
-:global serverftp XX.XX.XX.XX:
+:global serverftp XX.XX.XX.XX;
 :global userftp XXXXXXX;
 :global passftp XXXXXXXXXXX;
 :global dirftp XXXXXXXXX;
